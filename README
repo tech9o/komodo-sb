@@ -1,0 +1,18 @@
+Komodo-Edit-8.5.4-14424-linux (a free text edirot)
+
+a free text editor for dinamic programming languages
+
+http://komodoide.com/komodo-edit/
+
+Slackbuild script written by techno <dos.umbrella@gmail.com>
+
+
+Dependencies:
+
+glibc>=2.4    	http://www.gnu.org/software/libc/
+gtk2   	 	http://www.gtk.org/download/
+xterm		http://invisible-island.net/xterm/
+
+
+Special instructions:
+

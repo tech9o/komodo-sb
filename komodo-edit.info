@@ -1,0 +1,7 @@
+PRGNAM="Komodo-Edit"
+VERSION="8.5.4"
+HOMEPAGE="http://komodoide.com/komodo-edit/"
+DOWNLOAD="http://downloads.activestate.com/Komodo/releases/8.5.4/Komodo-Edit-8.5.4-14424-linux-x86.tar.gz"
+MD5SUM="523c064ea42b4a323fd76d69b7f8bba6"
+MAINTAINER="techno"
+EMAIL="dos.umbrella@gmail.com"
